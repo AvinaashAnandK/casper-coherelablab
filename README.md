@@ -1,4 +1,4 @@
-# Casper: Enhancing ML Development Productivity
+# Casper: Chat-led devtool to enhance ML Development Productivity
 
 ## Introduction
 Casper is designed to boost the productivity of developers in machine learning (ML) projects. It caters to all levels of expertise, offering essential tools to simplify and improve the development process.
@@ -24,5 +24,3 @@ Casper is designed to boost the productivity of developers in machine learning (
 - **Confidence in ML Projects**: Builds developers' confidence in handling diverse ML tasks.
 - **Quality Assurance**: Supports the delivery of high-quality ML project results.
 
-## Conclusion
-Casper stands as a valuable tool for developers embarking on ML projects, ensuring a smoother, more successful journey in the ML development landscape.
