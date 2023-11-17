@@ -83,6 +83,8 @@ def run_wget(url, path):
         print(f"An error occurred while running wget: {e}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+    
+    return full_file_path
 
 def is_url_downloaded(history_file_path, url):
     if not os.path.exists(history_file_path):
@@ -120,3 +122,5 @@ def clone_or_update_repo(repo_url, path):
         update_download_history(history_file_path, repo_url, current_time)
     except Exception as e:
         print(f"An error occurred while cloning the repo: {e}")
+
+    return repo_folder
